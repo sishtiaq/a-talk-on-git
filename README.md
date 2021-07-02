@@ -12,3 +12,4 @@ https://news.ycombinator.com/item?id=26884318
 https://jwiegley.github.io/git-from-the-bottom-up/
 
 https://ohshitgit.com/
+https://github.com/k88hudson/git-flight-rules#i-want-to-undo-rebasemerge
